@@ -14,7 +14,7 @@
 ## 📸 Screenshots
 
 ### Chatbot Interface
-![Chatbot](chatbot.png)
+![Chatbot](allleads.png)
 
 ### Lead Qualification Results
 ![HubSpot Email](hubspot-crm.PNG)
