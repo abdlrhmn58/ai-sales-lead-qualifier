@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-**Try it now:** [[https://huggingface.co/spaces/YOUR-USERNAME/ai-lead-qualifier](https://huggingface.co/spaces/abdlrhmn58/ai-sales-lead-qualifier)]
+**Try it now:** [(https://huggingface.co/spaces/abdlrhmn58/ai-sales-lead-qualifier)(https://huggingface.co/spaces/abdlrhmn58/ai-sales-lead-qualifier)]
 
 ## 📸 Screenshots
 
